@@ -1,4 +1,4 @@
     # Rakefile
-    task :run_my_script do
+    task :wfbuild do
       ruby 'build.rb'
     end
